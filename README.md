@@ -1,6 +1,6 @@
 ## Changes to Crealitys Firmware
-- Increased Autolevel-Grid to a 7x7-Mesh
-- Included @queeup-Forks Linear Advance function. Go see his github!
+- Increased Autolevel-Grid to a 7x7-Mesh.
+- Enabled Linear Advance function.
 
 On the right side under releases you can find a precompiled .bin, which you can just flash on your printer, if youre running 1.0.6 already.
 1. Put the firmware on your SD-Card
